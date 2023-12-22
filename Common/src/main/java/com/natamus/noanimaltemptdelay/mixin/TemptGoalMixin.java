@@ -1,4 +1,4 @@
-package com.natamus.noanimaltemptdelay.fabric.mixin;
+package com.natamus.noanimaltemptdelay.mixin;
 
 import net.minecraft.world.entity.ai.goal.TemptGoal;
 import org.spongepowered.asm.mixin.Mixin;
