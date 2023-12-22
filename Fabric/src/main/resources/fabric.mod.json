@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "noanimaltemptdelay",
-  "version": "1.0",
+  "version": "1.1",
 
   "name": "No Animal Tempt Delay",
   "description": "Removes the delay in between trying to attract animals with their desired food.",
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": { "main": [ "com.natamus.noanimaltemptdelay.ModFabric" ] },
   "mixins": [
-    "noanimaltemptdelay_fabric.mixins.json"
+    "noanimaltemptdelay.mixins.json"
   ],
 
   "depends": {
@@ -26,7 +26,7 @@
     "fabric": "*",
     "minecraft": ">=1.19",
     "java": ">=17",
-    "collective": ">=7.23"
+    "collective": ">=7.26"
   },
 
   "custom": {
