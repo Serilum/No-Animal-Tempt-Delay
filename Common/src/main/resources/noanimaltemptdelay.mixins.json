@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.natamus.noanimaltemptdelay.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "TemptGoalMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
