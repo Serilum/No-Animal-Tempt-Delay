@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "id": "noanimaltemptdelay",
-  "version": "1.2",
+  "version": "1.3",
 
   "name": "No Animal Tempt Delay",
   "description": "Removes the delay in between trying to attract animals with their desired food.",
-  "authors": [ "Rick South" ],
+  "authors": [ "Serilum" ],
   "contact": {
     "homepage": "https://serilum.com/mod/no-animal-tempt-delay",
     "sources": "https://github.com/Serilum/No-Animal-Tempt-Delay",
@@ -16,7 +16,7 @@
   "icon": "icon.png",
 
   "environment": "*",
-  "entrypoints": { "main": [ "com.natamus.noanimaltemptdelay.ModFabric" ] },
+  "entrypoints": { "main": [ "com.serilum.noanimaltemptdelay.ModFabric" ] },
   "mixins": [
     "noanimaltemptdelay.mixins.json"
   ],
@@ -26,7 +26,7 @@
     "fabric-api": "*",
     "minecraft": ">=26.3",
     "java": ">=25",
-    "collective": ">=8.39"
+    "collective": ">=8.40"
   },
 
   "custom": {
@@ -41,7 +41,7 @@
 	  " ",
 	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
 	  " ",
-	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  "If you would like to contribute too, check out https://serilum.com/donate",
 	  " ",
 	  "Membership sponsors:",
 	  " Andrean Olgo",
