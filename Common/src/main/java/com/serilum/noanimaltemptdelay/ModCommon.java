@@ -1,4 +1,4 @@
-package com.natamus.noanimaltemptdelay;
+package com.serilum.noanimaltemptdelay;
 
 
 public class ModCommon {
