@@ -1,8 +1,8 @@
-package com.natamus.noanimaltemptdelay;
+package com.serilum.noanimaltemptdelay;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.noanimaltemptdelay.util.Reference;
+import com.serilum.noanimaltemptdelay.util.Reference;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
